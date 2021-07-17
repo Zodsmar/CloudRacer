@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b6f5ebddf5d47704e8e225beddcabf8c
+  - enabled: 1
+    path: Assets/Scenes/RoadBuilder.unity
+    guid: f054b47c60c5b5546a4746b76be7e4d1
+  m_configObjects: {}

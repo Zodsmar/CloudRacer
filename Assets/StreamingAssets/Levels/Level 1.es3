@@ -1,0 +1,2923 @@
+{
+	"a433b46c-4db3-4a48-b4d0-a5e7b8fe2235" : {
+		"__type" : "UnityEngine.GameObject[],UnityEngine.CoreModule",
+		"value" : [
+			{
+				"_ES3Ref" : "6721735140574756062",
+				"transformID" : 7999407653322554776,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "7999407653322554776",
+						"goID" : "6721735140574756062",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "7297623838655555945"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "4794685712037520633",
+				"transformID" : 1372239943857923237,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "1372239943857923237",
+						"goID" : "4794685712037520633",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "7323813032667109169"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "8222703302275282663",
+				"transformID" : 1552518052925466928,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "1552518052925466928",
+						"goID" : "8222703302275282663",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "4418687951209520165"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "5001785558734444293",
+				"transformID" : 7415228918341586596,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "7415228918341586596",
+						"goID" : "5001785558734444293",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "6871597880470870861"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "7030530179197848390",
+				"transformID" : 5619468531655832544,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "5619468531655832544",
+						"goID" : "7030530179197848390",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "3960299143610289470"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "1045459159667476398",
+				"transformID" : 3151545377392599460,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "3151545377392599460",
+						"goID" : "1045459159667476398",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "1306838098119637578"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "4737595984374854676",
+				"transformID" : 8033672015616129621,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "8033672015616129621",
+						"goID" : "4737595984374854676",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "2457452212483693381"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "4724839509525275486",
+				"transformID" : 2616634876383895849,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "2616634876383895849",
+						"goID" : "4724839509525275486",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "6182957977646591205"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "2193524277500088720",
+				"transformID" : 5966163338790754231,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "5966163338790754231",
+						"goID" : "2193524277500088720",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : 50,
+							"y" : 22.5,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "2966288032574318293"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "3489375575008026316",
+				"transformID" : 6440904545247412765,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "6440904545247412765",
+						"goID" : "3489375575008026316",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : -50,
+							"y" : -15,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "3882222818037763688"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "4281039021657598723",
+				"transformID" : 127034303960737822,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "127034303960737822",
+						"goID" : "4281039021657598723",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : -50,
+							"y" : -15,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "2364157430475807322"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "7578125126662225072",
+				"transformID" : 3556022447893708495,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "3556022447893708495",
+						"goID" : "7578125126662225072",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "927304855928562772"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "6754327879528430078",
+				"transformID" : 7437745446997545440,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "7437745446997545440",
+						"goID" : "6754327879528430078",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "6298553794591575624"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "3894266693267152761",
+				"transformID" : 6431537270860011525,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "6431537270860011525",
+						"goID" : "3894266693267152761",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "6963164395680653329"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "5194442041106056427",
+				"transformID" : 7912299943444894213,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "7912299943444894213",
+						"goID" : "5194442041106056427",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "7341071753536016697"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "1152960866497745196",
+				"transformID" : 5360046618484061579,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "5360046618484061579",
+						"goID" : "1152960866497745196",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "8448576762024466466"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "8886486303184034339",
+				"transformID" : 12821946401814230,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "12821946401814230",
+						"goID" : "8886486303184034339",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "496252681278977646"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "7773004382767427516",
+				"transformID" : 4885506466330260657,
+				"layer" : 0,
+				"tag" : "Untagged",
+				"name" : "GameManager",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "LevelManager,Assembly-CSharp",
+						"_ES3Ref" : "5667926287586612391",
+						"goID" : "7773004382767427516",
+						"countDownTime" : 10
+					}
+				]
+			},{
+				"_ES3Ref" : "5113504591833170646",
+				"es3Prefab" : {
+					"prefabId" : "2513269656764023005",
+					"refs" : {"6815136099626511579":"5113504591833170646","7182023124386206823":"2507615110238636847","1824054351217268013":"4084030515181362805","8617826988897294875":"7398772599612132152","8122467085388003342":"8563094731087901892","7559167575798028941":"8394230283827489006","8981328672236790139":"8446649772466427657","5016486360436960355":"8103053350633414129","6889134484570716093":"8520647111733586986","8413526476143730723":"348435428399915365","2544031726547736436":"4551966566206981981","5821492699681794211":"2173959646232911513","7284754721408900154":"6477637383997107172","8449933562920364803":"8483228491225849389","8909805985185528361":"5652276346887844126","782246244161054487":"4360084478042943470","3550921481549484886":"7130288975946920293","3050350590922902911":"4178417201333634967","3892677467136948627":"6142888935279304443","1888872737401530370":"1581469091983275191","4520595059411816135":"8494465748295469147","2030589452146601906":"3912721887608317897","1687985690125974084":"793740469922458855","2445878065031497369":"4002637677489593245","3596673393164698008":"9165292379896063261"
+					}
+				},
+				"transformID" : 2507615110238636847,
+				"layer" : 0,
+				"tag" : "Start",
+				"name" : "Start(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					{
+						"_ES3Ref" : "8446649772466427657",
+						"transformID" : 8103053350633414129,
+						"layer" : 0,
+						"tag" : "Untagged",
+						"name" : "overheadLights",
+						"hideFlags" : 0,
+						"active" : true,
+						"children" : [
+							
+						],
+						"components" : [
+							{
+								"__type" : "Transform",
+								"_ES3Ref" : "8103053350633414129",
+								"goID" : "8446649772466427657",
+								"parent" : {
+									"_ES3Ref" : "2507615110238636847"
+								},
+								"localPosition" : {
+									"x" : 0,
+									"y" : 0,
+									"z" : 0.4
+								},
+								"localRotation" : {
+									"x" : 0,
+									"y" : 0.7071068,
+									"z" : 0,
+									"w" : 0.7071068
+								},
+								"localScale" : {
+									"x" : 0.08000003,
+									"y" : 0.08,
+									"z" : 0.08000003
+								}
+							},{
+								"__type" : "MeshFilter",
+								"_ES3Ref" : "8520647111733586986",
+								"goID" : "8446649772466427657",
+								"sharedMesh" : {
+									"_ES3Ref" : "348435428399915365"
+								}
+							},{
+								"__type" : "UnityEngine.MeshRenderer,UnityEngine.CoreModule",
+								"_ES3Ref" : "4551966566206981981",
+								"goID" : "8446649772466427657",
+								"additionalVertexStreams" : null,
+								"enabled" : true,
+								"shadowCastingMode" : 1,
+								"receiveShadows" : true,
+								"sharedMaterials" : [
+									{
+										"_ES3Ref" : "2173959646232911513"
+									},{
+										"_ES3Ref" : "6477637383997107172"
+									},{
+										"_ES3Ref" : "8483228491225849389"
+									}
+								],
+								"lightmapIndex" : -1,
+								"realtimeLightmapIndex" : -1,
+								"lightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"motionVectorGenerationMode" : 1,
+								"realtimeLightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"lightProbeUsage" : 1,
+								"lightProbeProxyVolumeOverride" : null,
+								"probeAnchor" : null,
+								"reflectionProbeUsage" : 1,
+								"sortingLayerName" : "Default",
+								"sortingLayerID" : 0,
+								"sortingOrder" : 0
+							},{
+								"__type" : "UnityEngine.MeshCollider,UnityEngine.PhysicsModule",
+								"_ES3Ref" : "5652276346887844126",
+								"goID" : "8446649772466427657",
+								"sharedMesh" : {
+									"_ES3Ref" : "348435428399915365"
+								},
+								"convex" : false,
+								"enabled" : true,
+								"isTrigger" : false,
+								"contactOffset" : 0.01,
+								"material" : null
+							}
+						]
+					},{
+						"_ES3Ref" : "4360084478042943470",
+						"transformID" : 7130288975946920293,
+						"layer" : 0,
+						"tag" : "Untagged",
+						"name" : "road_straight",
+						"hideFlags" : 0,
+						"active" : true,
+						"children" : [
+							
+						],
+						"components" : [
+							{
+								"__type" : "Transform",
+								"_ES3Ref" : "7130288975946920293",
+								"goID" : "4360084478042943470",
+								"parent" : {
+									"_ES3Ref" : "2507615110238636847"
+								},
+								"localPosition" : {
+									"x" : 0,
+									"y" : 0,
+									"z" : 0
+								},
+								"localRotation" : {
+									"x" : 0,
+									"y" : 0,
+									"z" : 0,
+									"w" : 1
+								},
+								"localScale" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 1
+								}
+							},{
+								"__type" : "MeshFilter",
+								"_ES3Ref" : "4178417201333634967",
+								"goID" : "4360084478042943470",
+								"sharedMesh" : {
+									"_ES3Ref" : "6142888935279304443"
+								}
+							},{
+								"__type" : "UnityEngine.MeshRenderer,UnityEngine.CoreModule",
+								"_ES3Ref" : "1581469091983275191",
+								"goID" : "4360084478042943470",
+								"additionalVertexStreams" : null,
+								"enabled" : true,
+								"shadowCastingMode" : 1,
+								"receiveShadows" : true,
+								"sharedMaterials" : [
+									{
+										"_ES3Ref" : "8494465748295469147"
+									},{
+										"_ES3Ref" : "3912721887608317897"
+									},{
+										"_ES3Ref" : "793740469922458855"
+									},{
+										"_ES3Ref" : "4002637677489593245"
+									}
+								],
+								"lightmapIndex" : -1,
+								"realtimeLightmapIndex" : -1,
+								"lightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"motionVectorGenerationMode" : 1,
+								"realtimeLightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"lightProbeUsage" : 1,
+								"lightProbeProxyVolumeOverride" : null,
+								"probeAnchor" : null,
+								"reflectionProbeUsage" : 1,
+								"sortingLayerName" : "Default",
+								"sortingLayerID" : 0,
+								"sortingOrder" : 0
+							},{
+								"__type" : "UnityEngine.BoxCollider,UnityEngine.PhysicsModule",
+								"_ES3Ref" : "9165292379896063261",
+								"goID" : "4360084478042943470",
+								"center" : {
+									"x" : 0,
+									"y" : 0.01,
+									"z" : 0
+								},
+								"size" : {
+									"x" : 0.99999994,
+									"y" : 0.02,
+									"z" : 0.99999994
+								},
+								"enabled" : true,
+								"isTrigger" : false,
+								"contactOffset" : 0.01,
+								"material" : null
+							}
+						]
+					}
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "2507615110238636847",
+						"goID" : "5113504591833170646",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16,
+							"y" : 0,
+							"z" : 20
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "7398772599612132152",
+						"goID" : "5113504591833170646",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "6512802323984796225",
+				"es3Prefab" : {
+					"prefabId" : "6417429027980362035",
+					"refs" : {"659089639671826669":"6512802323984796225","7949096245003475275":"1801690475457959252","6951107021532361236":"1170383040712689957","3415956000744999968":"3013099655364452267","3470771249708279868":"6307892695190483445","2417899605772132268":"80821736926860823","4054875163976959201":"8563094731087901892","3813561886220626175":"7389599704444760642","4854111134295458113":"5471868819902286708","396025053587855646":"254042130807227145","7806492629478562945":"141291046152238811","2964330069540255517":"853219233321112711","7168975306236219341":"3758317887829061589","654880039762255322":"7483137897703629727","469591211231161510":"1359281690762755886","5603168674897692587":"5114668480768111303","3239946533849078071":"7844080852427456107","8960618172125424089":"3596389359844142912","2297147520075098785":"1288621144289559557","5664562073473894485":"5296652231276399195","4696069945988623456":"9068158294461690377","2901998078739169314":"4719439489545115363","1960072770914852052":"483067426110338204","7711463235248179655":"3899977529862178329","7656349746089639739":"881414534780506921","5548275559765507862":"3098368098680960996","901211706037024526":"6142888935279304443","8913301687806712481":"1254872575361671178","94380110500023748":"8494465748295469147","3971484627989241763":"3912721887608317897","8813375825976901688":"793740469922458855","5926399329000765761":"4002637677489593245","4677235362958126770":"4707210724283652156","3262493963297866089":"1011724860166261521","6763666709398606841":"5326298440409609550","3011679461199494655":"6754921496986412090","1698128048122960160":"8802712547133651266","684804626077949738":"6093480533310899876","1250777642685915776":"7762068822718431018","4234605217969234059":"6705198107421471443","195575857891577846":"3216074362786545930","1454662075816066627":"3024377091278254306"
+					}
+				},
+				"transformID" : 1801690475457959252,
+				"layer" : 0,
+				"tag" : "Checkpoint",
+				"name" : "Checkpoint(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					{
+						"_ES3Ref" : "5471868819902286708",
+						"transformID" : 254042130807227145,
+						"layer" : 0,
+						"tag" : "Untagged",
+						"name" : "flagCheckers",
+						"hideFlags" : 0,
+						"active" : true,
+						"children" : [
+							{
+								"_ES3Ref" : "5114668480768111303",
+								"transformID" : 7844080852427456107,
+								"layer" : 0,
+								"tag" : "Untagged",
+								"name" : "Group",
+								"hideFlags" : 0,
+								"active" : true,
+								"children" : [
+									
+								],
+								"components" : [
+									{
+										"__type" : "Transform",
+										"_ES3Ref" : "7844080852427456107",
+										"goID" : "5114668480768111303",
+										"parent" : {
+											"_ES3Ref" : "254042130807227145"
+										},
+										"localPosition" : {
+											"x" : 0,
+											"y" : 0,
+											"z" : 0.00395
+										},
+										"localRotation" : {
+											"x" : 0,
+											"y" : 0,
+											"z" : 0,
+											"w" : 1
+										},
+										"localScale" : {
+											"x" : 1,
+											"y" : 1,
+											"z" : 1
+										}
+									},{
+										"__type" : "MeshFilter",
+										"_ES3Ref" : "3596389359844142912",
+										"goID" : "5114668480768111303",
+										"sharedMesh" : {
+											"_ES3Ref" : "1288621144289559557"
+										}
+									},{
+										"__type" : "UnityEngine.MeshRenderer,UnityEngine.CoreModule",
+										"_ES3Ref" : "5296652231276399195",
+										"goID" : "5114668480768111303",
+										"additionalVertexStreams" : null,
+										"enabled" : true,
+										"shadowCastingMode" : 1,
+										"receiveShadows" : true,
+										"sharedMaterials" : [
+											{
+												"_ES3Ref" : "9068158294461690377"
+											},{
+												"_ES3Ref" : "4719439489545115363"
+											},{
+												"_ES3Ref" : "483067426110338204"
+											}
+										],
+										"lightmapIndex" : -1,
+										"realtimeLightmapIndex" : -1,
+										"lightmapScaleOffset" : {
+											"x" : 1,
+											"y" : 1,
+											"z" : 0,
+											"w" : 0
+										},
+										"motionVectorGenerationMode" : 1,
+										"realtimeLightmapScaleOffset" : {
+											"x" : 1,
+											"y" : 1,
+											"z" : 0,
+											"w" : 0
+										},
+										"lightProbeUsage" : 1,
+										"lightProbeProxyVolumeOverride" : null,
+										"probeAnchor" : null,
+										"reflectionProbeUsage" : 1,
+										"sortingLayerName" : "Default",
+										"sortingLayerID" : 0,
+										"sortingOrder" : 0
+									}
+								]
+							}
+						],
+						"components" : [
+							{
+								"__type" : "Transform",
+								"_ES3Ref" : "254042130807227145",
+								"goID" : "5471868819902286708",
+								"parent" : {
+									"_ES3Ref" : "1801690475457959252"
+								},
+								"localPosition" : {
+									"x" : 0,
+									"y" : 0,
+									"z" : -0.46
+								},
+								"localRotation" : {
+									"x" : 0,
+									"y" : -0.7071068,
+									"z" : 0,
+									"w" : 0.7071068
+								},
+								"localScale" : {
+									"x" : 0.05000003,
+									"y" : 0.05,
+									"z" : 0.05000003
+								}
+							},{
+								"__type" : "MeshFilter",
+								"_ES3Ref" : "141291046152238811",
+								"goID" : "5471868819902286708",
+								"sharedMesh" : {
+									"_ES3Ref" : "853219233321112711"
+								}
+							},{
+								"__type" : "UnityEngine.MeshRenderer,UnityEngine.CoreModule",
+								"_ES3Ref" : "3758317887829061589",
+								"goID" : "5471868819902286708",
+								"additionalVertexStreams" : null,
+								"enabled" : true,
+								"shadowCastingMode" : 1,
+								"receiveShadows" : true,
+								"sharedMaterials" : [
+									{
+										"_ES3Ref" : "7483137897703629727"
+									}
+								],
+								"lightmapIndex" : -1,
+								"realtimeLightmapIndex" : -1,
+								"lightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"motionVectorGenerationMode" : 1,
+								"realtimeLightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"lightProbeUsage" : 1,
+								"lightProbeProxyVolumeOverride" : null,
+								"probeAnchor" : null,
+								"reflectionProbeUsage" : 1,
+								"sortingLayerName" : "Default",
+								"sortingLayerID" : 0,
+								"sortingOrder" : 0
+							},{
+								"__type" : "UnityEngine.MeshCollider,UnityEngine.PhysicsModule",
+								"_ES3Ref" : "1359281690762755886",
+								"goID" : "5471868819902286708",
+								"sharedMesh" : {
+									"_ES3Ref" : "853219233321112711"
+								},
+								"convex" : false,
+								"enabled" : true,
+								"isTrigger" : false,
+								"contactOffset" : 0.01,
+								"material" : null
+							}
+						]
+					},{
+						"_ES3Ref" : "3899977529862178329",
+						"transformID" : 881414534780506921,
+						"layer" : 0,
+						"tag" : "Untagged",
+						"name" : "road_straight",
+						"hideFlags" : 0,
+						"active" : true,
+						"children" : [
+							
+						],
+						"components" : [
+							{
+								"__type" : "Transform",
+								"_ES3Ref" : "881414534780506921",
+								"goID" : "3899977529862178329",
+								"parent" : {
+									"_ES3Ref" : "1801690475457959252"
+								},
+								"localPosition" : {
+									"x" : 0,
+									"y" : 0,
+									"z" : 0
+								},
+								"localRotation" : {
+									"x" : 0,
+									"y" : 0,
+									"z" : 0,
+									"w" : 1
+								},
+								"localScale" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 1
+								}
+							},{
+								"__type" : "MeshFilter",
+								"_ES3Ref" : "3098368098680960996",
+								"goID" : "3899977529862178329",
+								"sharedMesh" : {
+									"_ES3Ref" : "6142888935279304443"
+								}
+							},{
+								"__type" : "UnityEngine.MeshRenderer,UnityEngine.CoreModule",
+								"_ES3Ref" : "1254872575361671178",
+								"goID" : "3899977529862178329",
+								"additionalVertexStreams" : null,
+								"enabled" : true,
+								"shadowCastingMode" : 1,
+								"receiveShadows" : true,
+								"sharedMaterials" : [
+									{
+										"_ES3Ref" : "8494465748295469147"
+									},{
+										"_ES3Ref" : "3912721887608317897"
+									},{
+										"_ES3Ref" : "793740469922458855"
+									},{
+										"_ES3Ref" : "4002637677489593245"
+									}
+								],
+								"lightmapIndex" : -1,
+								"realtimeLightmapIndex" : -1,
+								"lightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"motionVectorGenerationMode" : 1,
+								"realtimeLightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"lightProbeUsage" : 1,
+								"lightProbeProxyVolumeOverride" : null,
+								"probeAnchor" : null,
+								"reflectionProbeUsage" : 1,
+								"sortingLayerName" : "Default",
+								"sortingLayerID" : 0,
+								"sortingOrder" : 0
+							},{
+								"__type" : "UnityEngine.BoxCollider,UnityEngine.PhysicsModule",
+								"_ES3Ref" : "4707210724283652156",
+								"goID" : "3899977529862178329",
+								"center" : {
+									"x" : 0,
+									"y" : 0.01,
+									"z" : 0
+								},
+								"size" : {
+									"x" : 0.99999994,
+									"y" : 0.02,
+									"z" : 0.99999994
+								},
+								"enabled" : true,
+								"isTrigger" : false,
+								"contactOffset" : 0.01,
+								"material" : null
+							}
+						]
+					},{
+						"_ES3Ref" : "1011724860166261521",
+						"transformID" : 5326298440409609550,
+						"layer" : 0,
+						"tag" : "Untagged",
+						"name" : "flagCheckers (1)",
+						"hideFlags" : 0,
+						"active" : true,
+						"children" : [
+							{
+								"_ES3Ref" : "7762068822718431018",
+								"transformID" : 6705198107421471443,
+								"layer" : 0,
+								"tag" : "Untagged",
+								"name" : "Group",
+								"hideFlags" : 0,
+								"active" : true,
+								"children" : [
+									
+								],
+								"components" : [
+									{
+										"__type" : "Transform",
+										"_ES3Ref" : "6705198107421471443",
+										"goID" : "7762068822718431018",
+										"parent" : {
+											"_ES3Ref" : "5326298440409609550"
+										},
+										"localPosition" : {
+											"x" : 0,
+											"y" : 0,
+											"z" : 0.00395
+										},
+										"localRotation" : {
+											"x" : 0,
+											"y" : 0,
+											"z" : 0,
+											"w" : 1
+										},
+										"localScale" : {
+											"x" : 1,
+											"y" : 1,
+											"z" : 1
+										}
+									},{
+										"__type" : "MeshFilter",
+										"_ES3Ref" : "3216074362786545930",
+										"goID" : "7762068822718431018",
+										"sharedMesh" : {
+											"_ES3Ref" : "1288621144289559557"
+										}
+									},{
+										"__type" : "UnityEngine.MeshRenderer,UnityEngine.CoreModule",
+										"_ES3Ref" : "3024377091278254306",
+										"goID" : "7762068822718431018",
+										"additionalVertexStreams" : null,
+										"enabled" : true,
+										"shadowCastingMode" : 1,
+										"receiveShadows" : true,
+										"sharedMaterials" : [
+											{
+												"_ES3Ref" : "9068158294461690377"
+											},{
+												"_ES3Ref" : "4719439489545115363"
+											},{
+												"_ES3Ref" : "483067426110338204"
+											}
+										],
+										"lightmapIndex" : -1,
+										"realtimeLightmapIndex" : -1,
+										"lightmapScaleOffset" : {
+											"x" : 1,
+											"y" : 1,
+											"z" : 0,
+											"w" : 0
+										},
+										"motionVectorGenerationMode" : 1,
+										"realtimeLightmapScaleOffset" : {
+											"x" : 1,
+											"y" : 1,
+											"z" : 0,
+											"w" : 0
+										},
+										"lightProbeUsage" : 1,
+										"lightProbeProxyVolumeOverride" : null,
+										"probeAnchor" : null,
+										"reflectionProbeUsage" : 1,
+										"sortingLayerName" : "Default",
+										"sortingLayerID" : 0,
+										"sortingOrder" : 0
+									}
+								]
+							}
+						],
+						"components" : [
+							{
+								"__type" : "Transform",
+								"_ES3Ref" : "5326298440409609550",
+								"goID" : "1011724860166261521",
+								"parent" : {
+									"_ES3Ref" : "1801690475457959252"
+								},
+								"localPosition" : {
+									"x" : 0,
+									"y" : 0,
+									"z" : 0.46
+								},
+								"localRotation" : {
+									"x" : 0,
+									"y" : 0.7071068,
+									"z" : 0,
+									"w" : 0.7071068
+								},
+								"localScale" : {
+									"x" : 0.05000003,
+									"y" : 0.05,
+									"z" : 0.05000003
+								}
+							},{
+								"__type" : "MeshFilter",
+								"_ES3Ref" : "6754921496986412090",
+								"goID" : "1011724860166261521",
+								"sharedMesh" : {
+									"_ES3Ref" : "853219233321112711"
+								}
+							},{
+								"__type" : "UnityEngine.MeshRenderer,UnityEngine.CoreModule",
+								"_ES3Ref" : "8802712547133651266",
+								"goID" : "1011724860166261521",
+								"additionalVertexStreams" : null,
+								"enabled" : true,
+								"shadowCastingMode" : 1,
+								"receiveShadows" : true,
+								"sharedMaterials" : [
+									{
+										"_ES3Ref" : "7483137897703629727"
+									}
+								],
+								"lightmapIndex" : -1,
+								"realtimeLightmapIndex" : -1,
+								"lightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"motionVectorGenerationMode" : 1,
+								"realtimeLightmapScaleOffset" : {
+									"x" : 1,
+									"y" : 1,
+									"z" : 0,
+									"w" : 0
+								},
+								"lightProbeUsage" : 1,
+								"lightProbeProxyVolumeOverride" : null,
+								"probeAnchor" : null,
+								"reflectionProbeUsage" : 1,
+								"sortingLayerName" : "Default",
+								"sortingLayerID" : 0,
+								"sortingOrder" : 0
+							},{
+								"__type" : "UnityEngine.MeshCollider,UnityEngine.PhysicsModule",
+								"_ES3Ref" : "6093480533310899876",
+								"goID" : "1011724860166261521",
+								"sharedMesh" : {
+									"_ES3Ref" : "853219233321112711"
+								},
+								"convex" : false,
+								"enabled" : true,
+								"isTrigger" : false,
+								"contactOffset" : 0.01,
+								"material" : null
+							}
+						]
+					}
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "1801690475457959252",
+						"goID" : "6512802323984796225",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 19,
+							"y" : 0,
+							"z" : 21
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0.7071068,
+							"z" : 0,
+							"w" : 0.7071068
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "80821736926860823",
+						"goID" : "6512802323984796225",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "5452738703557643726",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"5452738703557643726","1172729927441459616":"726066320475218412","5543803684158300449":"1415387159389113888","1261319031123551676":"8296974152846086914","8463505272643908076":"5519691903454326405","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"1935518295763748633","5198539587790926423":"6147347030770138147","495473920493964397":"8563094731087901892","7189319918526151234":"5077030896963410501"
+					}
+				},
+				"transformID" : 726066320475218412,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "726066320475218412",
+						"goID" : "5452738703557643726",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 15.9207945,
+							"y" : -0.009999881,
+							"z" : 20.9789658
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "8551403057422047355",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"8551403057422047355","1172729927441459616":"4440994068179854443","5543803684158300449":"2479228628397610913","1261319031123551676":"8296974152846086914","8463505272643908076":"2095463381986835730","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"857003789185717893","5198539587790926423":"493656217412019847","495473920493964397":"8563094731087901892","7189319918526151234":"9043490129088823993"
+					}
+				},
+				"transformID" : 4440994068179854443,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "4440994068179854443",
+						"goID" : "8551403057422047355",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.3005676,
+							"y" : -0.009999881,
+							"z" : 20.9154644
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "1092748529659046086",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"1092748529659046086","1172729927441459616":"4694649668505201804","5543803684158300449":"7600026316686172964","1261319031123551676":"8296974152846086914","8463505272643908076":"3444936378232072554","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"1082928416758497524","5198539587790926423":"1117581999252494483","495473920493964397":"8563094731087901892","7189319918526151234":"1104957109488364327"
+					}
+				},
+				"transformID" : 4694649668505201804,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "4694649668505201804",
+						"goID" : "1092748529659046086",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.6217213,
+							"y" : -0.009999881,
+							"z" : 20.883831
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "3559575788638897762",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"3559575788638897762","1172729927441459616":"612418184891948005","5543803684158300449":"6596589038317291623","1261319031123551676":"8296974152846086914","8463505272643908076":"5607279242130881877","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"5647938730482868779","5198539587790926423":"5897602168920782574","495473920493964397":"8563094731087901892","7189319918526151234":"3177581192909283010"
+					}
+				},
+				"transformID" : 612418184891948005,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "612418184891948005",
+						"goID" : "3559575788638897762",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.0475636,
+							"y" : -0.009999881,
+							"z" : 20.8522816
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "1973260916268477579",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"1973260916268477579","1172729927441459616":"2975065032764937447","5543803684158300449":"3816121474220732634","1261319031123551676":"8296974152846086914","8463505272643908076":"7121797597572023868","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"5978418716331098697","5198539587790926423":"2238174309485852285","495473920493964397":"8563094731087901892","7189319918526151234":"2312749016887055758"
+					}
+				},
+				"transformID" : 2975065032764937447,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "2975065032764937447",
+						"goID" : "1973260916268477579",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.39964,
+							"y" : -0.009999881,
+							"z" : 20.7580681
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "8596820851138314751",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"8596820851138314751","1172729927441459616":"3178964202948199001","5543803684158300449":"4637594790218343125","1261319031123551676":"8296974152846086914","8463505272643908076":"9034737780149671467","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"7484080577711799826","5198539587790926423":"3244722722543871524","495473920493964397":"8563094731087901892","7189319918526151234":"915158890746104688"
+					}
+				},
+				"transformID" : 3178964202948199001,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "3178964202948199001",
+						"goID" : "8596820851138314751",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.8225117,
+							"y" : -0.009999881,
+							"z" : 20.726799
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "734316684972004191",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"734316684972004191","1172729927441459616":"7520822165259141830","5543803684158300449":"6893939143757696689","1261319031123551676":"8296974152846086914","8463505272643908076":"811630367551523279","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"4634327132663077699","5198539587790926423":"7995365381073600892","495473920493964397":"8563094731087901892","7189319918526151234":"3268898716113233701"
+					}
+				},
+				"transformID" : 7520822165259141830,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "7520822165259141830",
+						"goID" : "734316684972004191",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 18.1919765,
+							"y" : -0.009999881,
+							"z" : 20.6956253
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "2405364935989015046",
+				"es3Prefab" : {
+					"prefabId" : "6490293955328408505",
+					"refs" : {"86680860081532769":"2405364935989015046","7020369715544236919":"8057951881628030942","4487308486753770338":"5180441228238887659","3383556026817718268":"117471474017779654","1307278440115427925":"8149689423263791943","8554848164649864601":"4164243898736277772","9212079147532912644":"7540361687575026325","6216476180536280458":"7789038282040581521","4364490248176647855":"8563094731087901892","1525240072216420353":"3485156276235761786","3916798285239849440":"7379985933459834676"
+					}
+				},
+				"transformID" : 8057951881628030942,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "stone_tallB(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "8057951881628030942",
+						"goID" : "2405364935989015046",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.5976315,
+							"y" : -0.009999881,
+							"z" : 20.6645279
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.4,
+							"y" : 0.4,
+							"z" : 0.4
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "7789038282040581521",
+						"goID" : "2405364935989015046",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "2701167510810603773",
+				"es3Prefab" : {
+					"prefabId" : "6490293955328408505",
+					"refs" : {"86680860081532769":"2701167510810603773","7020369715544236919":"824980484983186610","4487308486753770338":"8382621964791617241","3383556026817718268":"117471474017779654","1307278440115427925":"2550929409880860664","8554848164649864601":"4164243898736277772","9212079147532912644":"7540361687575026325","6216476180536280458":"4952700053837061186","4364490248176647855":"8563094731087901892","1525240072216420353":"7063077896056216138","3916798285239849440":"1218726624450186732"
+					}
+				},
+				"transformID" : 824980484983186610,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "stone_tallB(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "824980484983186610",
+						"goID" : "2701167510810603773",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.8792076,
+							"y" : -0.009999881,
+							"z" : 21.3337326
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.4,
+							"y" : 0.4,
+							"z" : 0.4
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "4952700053837061186",
+						"goID" : "2701167510810603773",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "8215157266674152212",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"8215157266674152212","1172729927441459616":"6076366918387282390","5543803684158300449":"6325663548866717609","1261319031123551676":"8296974152846086914","8463505272643908076":"6651945021122658986","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"483321960405798540","5198539587790926423":"2276258057063957743","495473920493964397":"8563094731087901892","7189319918526151234":"6535911540373259293"
+					}
+				},
+				"transformID" : 6076366918387282390,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "6076366918387282390",
+						"goID" : "8215157266674152212",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.10056,
+							"y" : -0.009999881,
+							"z" : 19.3377857
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "406020540758272633",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"406020540758272633","1172729927441459616":"5576610055954181328","5543803684158300449":"1106829090547486719","1261319031123551676":"8296974152846086914","8463505272643908076":"2897771284308560862","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"776380499073464778","5198539587790926423":"2935320073825728689","495473920493964397":"8563094731087901892","7189319918526151234":"4142514700907413008"
+					}
+				},
+				"transformID" : 5576610055954181328,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "5576610055954181328",
+						"goID" : "406020540758272633",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.6612663,
+							"y" : -0.009999881,
+							"z" : 19.4072342
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "4460966366475926270",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"4460966366475926270","1172729927441459616":"4178028395387346206","5543803684158300449":"6084786549159055915","1261319031123551676":"8296974152846086914","8463505272643908076":"4729214300912760742","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"7793151357194685102","5198539587790926423":"1444024663182939675","495473920493964397":"8563094731087901892","7189319918526151234":"8977351350896864615"
+					}
+				},
+				"transformID" : 4178028395387346206,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "4178028395387346206",
+						"goID" : "4460966366475926270",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.29926,
+							"y" : -0.009999881,
+							"z" : 19.3377857
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "4802787419316146590",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"4802787419316146590","1172729927441459616":"4106932345836135672","5543803684158300449":"7013615753045390281","1261319031123551676":"8296974152846086914","8463505272643908076":"4177593825838786821","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"81089631613112047","5198539587790926423":"1111830878446660900","495473920493964397":"8563094731087901892","7189319918526151234":"4601897866471150250"
+					}
+				},
+				"transformID" : 4106932345836135672,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "4106932345836135672",
+						"goID" : "4802787419316146590",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.9805565,
+							"y" : -0.009999881,
+							"z" : 19.4072323
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "5647268200889981461",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"5647268200889981461","1172729927441459616":"697325105063352468","5543803684158300449":"5368376348606002215","1261319031123551676":"8296974152846086914","8463505272643908076":"7417196662665116302","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"3858553110091418236","5198539587790926423":"1711880185213875058","495473920493964397":"8563094731087901892","7189319918526151234":"3964415097647210239"
+					}
+				},
+				"transformID" : 697325105063352468,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "697325105063352468",
+						"goID" : "5647268200889981461",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.144825,
+							"y" : -0.009999881,
+							"z" : 19.4196377
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "2192313085483786137",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"2192313085483786137","1172729927441459616":"2215302424309491836","5543803684158300449":"1837029946822744648","1261319031123551676":"8296974152846086914","8463505272643908076":"215818937733613238","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"8435458288081441056","5198539587790926423":"4545171319361772276","495473920493964397":"8563094731087901892","7189319918526151234":"769226433846241237"
+					}
+				},
+				"transformID" : 2215302424309491836,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "2215302424309491836",
+						"goID" : "2192313085483786137",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 19.0222263,
+							"y" : -0.009999881,
+							"z" : 19.33333
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "8231509447855335177",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"8231509447855335177","1172729927441459616":"5656445865495375952","5543803684158300449":"7206906537054291946","1261319031123551676":"8296974152846086914","8463505272643908076":"5491862161830986804","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"2831084915710055259","5198539587790926423":"3642657117661103937","495473920493964397":"8563094731087901892","7189319918526151234":"2015006561394784287"
+					}
+				},
+				"transformID" : 5656445865495375952,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "5656445865495375952",
+						"goID" : "8231509447855335177",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 18.6344337,
+							"y" : -0.009999881,
+							"z" : 19.33333
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "5857484211612686646",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"5857484211612686646","1172729927441459616":"2665425258017496366","5543803684158300449":"4796395229707449049","1261319031123551676":"8296974152846086914","8463505272643908076":"2042710869227866536","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"1737742525898612192","5198539587790926423":"1156311036252218488","495473920493964397":"8563094731087901892","7189319918526151234":"119701771168414988"
+					}
+				},
+				"transformID" : 2665425258017496366,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "2665425258017496366",
+						"goID" : "5857484211612686646",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 18.1998138,
+							"y" : -0.009999881,
+							"z" : 19.321106
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "5428936531748467300",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"5428936531748467300","1172729927441459616":"2263763745377956396","5543803684158300449":"4536776039440850837","1261319031123551676":"8296974152846086914","8463505272643908076":"6100730292798291087","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"6105704835037680048","5198539587790926423":"1674862543247305087","495473920493964397":"8563094731087901892","7189319918526151234":"8730342487417341985"
+					}
+				},
+				"transformID" : 2263763745377956396,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "2263763745377956396",
+						"goID" : "5428936531748467300",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.6450634,
+							"y" : -0.009999881,
+							"z" : 19.370163
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "7355021733017223715",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"7355021733017223715","1172729927441459616":"4585503351740937435","5543803684158300449":"5147521844752507714","1261319031123551676":"8296974152846086914","8463505272643908076":"294073528682042409","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"7725063652158001536","5198539587790926423":"4721456539435177510","495473920493964397":"8563094731087901892","7189319918526151234":"3637006841423512286"
+					}
+				},
+				"transformID" : 4585503351740937435,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "4585503351740937435",
+						"goID" : "7355021733017223715",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.9520035,
+							"y" : -0.009999881,
+							"z" : 19.3578625
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "3289279605831674441",
+				"es3Prefab" : {
+					"prefabId" : "1973027417699747881",
+					"refs" : {"7390723258998958456":"3289279605831674441","1172729927441459616":"6935510448520302183","5543803684158300449":"1446547587253242692","1261319031123551676":"8296974152846086914","8463505272643908076":"4859953315151557199","3933977374984224368":"9155304492523676647","1511152464207083197":"6246338042752220442","8904263455042073158":"2357625919333069361","5198539587790926423":"5204420090787547002","495473920493964397":"8563094731087901892","7189319918526151234":"2118084664239641890"
+					}
+				},
+				"transformID" : 6935510448520302183,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "tree_pineDefaultA(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "6935510448520302183",
+						"goID" : "3289279605831674441",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.38159,
+							"y" : -0.009999881,
+							"z" : 19.4196377
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.5,
+							"y" : 0.5,
+							"z" : 0.5
+						}
+					}
+				]
+			},{
+				"_ES3Ref" : "989798019143960934",
+				"es3Prefab" : {
+					"prefabId" : "6490293955328408505",
+					"refs" : {"86680860081532769":"989798019143960934","7020369715544236919":"7431307073436347158","4487308486753770338":"5162613363151972635","3383556026817718268":"117471474017779654","1307278440115427925":"3587692479272669851","8554848164649864601":"4164243898736277772","9212079147532912644":"7540361687575026325","6216476180536280458":"5534589436271616502","4364490248176647855":"8563094731087901892","1525240072216420353":"3485342102385111899","3916798285239849440":"5783933512566549164"
+					}
+				},
+				"transformID" : 7431307073436347158,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "stone_tallB(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "7431307073436347158",
+						"goID" : "989798019143960934",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.7345467,
+							"y" : -0.009999881,
+							"z" : 19.14073
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.4,
+							"y" : 0.4,
+							"z" : 0.4
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "5534589436271616502",
+						"goID" : "989798019143960934",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "5377951838201132854",
+				"es3Prefab" : {
+					"prefabId" : "6490293955328408505",
+					"refs" : {"86680860081532769":"5377951838201132854","7020369715544236919":"3353858283187007780","4487308486753770338":"5614758321809968397","3383556026817718268":"117471474017779654","1307278440115427925":"3630614983680608541","8554848164649864601":"4164243898736277772","9212079147532912644":"7540361687575026325","6216476180536280458":"6348555333660344077","4364490248176647855":"8563094731087901892","1525240072216420353":"7086677871414364407","3916798285239849440":"7769491891175299378"
+					}
+				},
+				"transformID" : 3353858283187007780,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "stone_tallB(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "3353858283187007780",
+						"goID" : "5377951838201132854",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.4982376,
+							"y" : -0.009999881,
+							"z" : 19.1289063
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.4,
+							"y" : 0.4,
+							"z" : 0.4
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "6348555333660344077",
+						"goID" : "5377951838201132854",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "8313884563401502892",
+				"es3Prefab" : {
+					"prefabId" : "6490293955328408505",
+					"refs" : {"86680860081532769":"8313884563401502892","7020369715544236919":"884702133713096115","4487308486753770338":"3105437203036774237","3383556026817718268":"117471474017779654","1307278440115427925":"1764374564062681006","8554848164649864601":"4164243898736277772","9212079147532912644":"7540361687575026325","6216476180536280458":"889603954904111227","4364490248176647855":"8563094731087901892","1525240072216420353":"3795956389657625734","3916798285239849440":"7349876150736903823"
+					}
+				},
+				"transformID" : 884702133713096115,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "stone_tallB(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "884702133713096115",
+						"goID" : "8313884563401502892",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 17.4103947,
+							"y" : -0.009999881,
+							"z" : 21.39204
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 0.4,
+							"y" : 0.4,
+							"z" : 0.4
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "889603954904111227",
+						"goID" : "8313884563401502892",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "3144958309593029462",
+				"es3Prefab" : {
+					"prefabId" : "4058559058800165348",
+					"refs" : {"475923968253659062":"3144958309593029462","6998683692812620027":"2904118984118088827","6202208633483516985":"9086324497257994484","7576069241712075039":"8546984400914357530","6245725847437019108":"7569627866852890190","3756036829852656703":"5479000287488752652","671911833191259234":"8424980622292943965","7651809076715488374":"4431405302607431838","1076998329487905651":"8563094731087901892","18468479615676753":"2908125270597239264","4167929882622767678":"4244099147052470273"
+					}
+				},
+				"transformID" : 2904118984118088827,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "construction_pylon(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "2904118984118088827",
+						"goID" : "3144958309593029462",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 16.8339882,
+							"y" : 0.02,
+							"z" : 19.884716
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "4431405302607431838",
+						"goID" : "3144958309593029462",
+						"isDestroyable" : false
+					}
+				]
+			},{
+				"_ES3Ref" : "8107437888871033512",
+				"es3Prefab" : {
+					"prefabId" : "4058559058800165348",
+					"refs" : {"475923968253659062":"8107437888871033512","6998683692812620027":"722173964532957594","6202208633483516985":"8378690788972440974","7576069241712075039":"8546984400914357530","6245725847437019108":"1169341244315043869","3756036829852656703":"5479000287488752652","671911833191259234":"8424980622292943965","7651809076715488374":"7491289864453491644","1076998329487905651":"8563094731087901892","18468479615676753":"3110044449908315827","4167929882622767678":"4709891400653396944"
+					}
+				},
+				"transformID" : 722173964532957594,
+				"layer" : 0,
+				"tag" : "Obstacle",
+				"name" : "construction_pylon(Clone)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "Transform",
+						"_ES3Ref" : "722173964532957594",
+						"goID" : "8107437888871033512",
+						"parent" : null,
+						"localPosition" : {
+							"x" : 18.062067,
+							"y" : 0.02,
+							"z" : 20.2282982
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						}
+					},{
+						"__type" : "Destroyable,Assembly-CSharp",
+						"_ES3Ref" : "7491289864453491644",
+						"goID" : "8107437888871033512",
+						"isDestroyable" : false
+					}
+				]
+			}
+		]
+	}
+}

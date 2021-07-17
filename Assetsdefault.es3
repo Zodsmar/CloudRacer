@@ -1,0 +1,1149 @@
+{
+	"a433b46c-4db3-4a48-b4d0-a5e7b8fe2235" : {
+		"__type" : "UnityEngine.GameObject[],UnityEngine.CoreModule",
+		"value" : [
+			{
+				"_ES3Ref" : "2387625108015953200",
+				"transformID" : 8320475899396452857,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "8320475899396452857",
+						"goID" : "2387625108015953200",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "2334998282474689707"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "4882055714534162145",
+				"transformID" : 4993100212375614652,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "4993100212375614652",
+						"goID" : "4882055714534162145",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "2178404583612649770"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "3241825558674795376",
+				"transformID" : 34958689614209396,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "34958689614209396",
+						"goID" : "3241825558674795376",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "3182571820655186647"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "3939455948398203979",
+				"transformID" : 8373939297110150389,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "8373939297110150389",
+						"goID" : "3939455948398203979",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "8972165204560348246"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "229114328920896247",
+				"transformID" : 276480420540198907,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "276480420540198907",
+						"goID" : "229114328920896247",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "563799822682588279"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "4543137194090652122",
+				"transformID" : 2209376954689013244,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "2209376954689013244",
+						"goID" : "4543137194090652122",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "7276071351187372235"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "6943262395114712121",
+				"transformID" : 453182594625646998,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "453182594625646998",
+						"goID" : "6943262395114712121",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "1157473337486566332"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "7259713758772037544",
+				"transformID" : 4146434570236323066,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "4146434570236323066",
+						"goID" : "7259713758772037544",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "8874542394787333833"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "3900715214338288150",
+				"transformID" : 6654178955267934080,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "6654178955267934080",
+						"goID" : "3900715214338288150",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : -50,
+							"y" : -15,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "5166200701453088705"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "987038646684926897",
+				"transformID" : 501867215806947063,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "501867215806947063",
+						"goID" : "987038646684926897",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : -50,
+							"y" : -15,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "4933836568740188133"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "6571004892069904808",
+				"transformID" : 6840063740634095611,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "6840063740634095611",
+						"goID" : "6571004892069904808",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : -50,
+							"y" : -15,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "3704414831837687094"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "8980361026377575421",
+				"transformID" : 6390009730688084243,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "6390009730688084243",
+						"goID" : "8980361026377575421",
+						"anchorMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"anchorMax" : {
+							"x" : 1,
+							"y" : 1
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"offsetMax" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"localPosition" : {
+							"x" : -50,
+							"y" : -15,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "4322255878055910471"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "5801970213120151822",
+				"transformID" : 2300476205176043429,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "2300476205176043429",
+						"goID" : "5801970213120151822",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "222178434634771749"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "461225832353230048",
+				"transformID" : 1055137473613014616,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "1055137473613014616",
+						"goID" : "461225832353230048",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "2567479219555651014"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "5118648379277706351",
+				"transformID" : 308134522254416352,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "308134522254416352",
+						"goID" : "5118648379277706351",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "7291580287440365152"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "6067547213844894479",
+				"transformID" : 5982332078983205218,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP) (1)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "5982332078983205218",
+						"goID" : "6067547213844894479",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "2890161333292632337"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "5245060863500308420",
+				"transformID" : 4997054133600745588,
+				"layer" : 5,
+				"tag" : "Untagged",
+				"name" : "Text (TMP)",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "UnityEngine.RectTransform,UnityEngine.CoreModule",
+						"_ES3Ref" : "4997054133600745588",
+						"goID" : "5245060863500308420",
+						"anchorMin" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchorMax" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"anchoredPosition" : {
+							"x" : 0,
+							"y" : 0
+						},
+						"sizeDelta" : {
+							"x" : 65,
+							"y" : 50
+						},
+						"pivot" : {
+							"x" : 0.5,
+							"y" : 0.5
+						},
+						"offsetMin" : {
+							"x" : -32.5,
+							"y" : -25
+						},
+						"offsetMax" : {
+							"x" : 32.5,
+							"y" : 25
+						},
+						"localPosition" : {
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						"localRotation" : {
+							"x" : 0,
+							"y" : 0,
+							"z" : 0,
+							"w" : 1
+						},
+						"localScale" : {
+							"x" : 1,
+							"y" : 1,
+							"z" : 1
+						},
+						"parent" : {
+							"_ES3Ref" : "4478714028032788990"
+						},
+						"hideFlags" : 0
+					}
+				]
+			},{
+				"_ES3Ref" : "3755715397097962959",
+				"transformID" : 3769947968941107297,
+				"layer" : 0,
+				"tag" : "Untagged",
+				"name" : "GameManager",
+				"hideFlags" : 0,
+				"active" : true,
+				"children" : [
+					
+				],
+				"components" : [
+					{
+						"__type" : "LevelManager,Assembly-CSharp",
+						"_ES3Ref" : "662692634893850502",
+						"goID" : "3755715397097962959",
+						"countDownTime" : 30
+					}
+				]
+			}
+		]
+	}
+}
